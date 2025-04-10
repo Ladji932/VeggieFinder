@@ -3,6 +3,8 @@ import { auth } from "./firebase";
 import { onAuthStateChanged } from "firebase/auth";
 import Login from "./components/Login";
 import Veggie from "./components/Veggie";
+import dotenv from "dotenv";
+dotenv.config();
 
 function App() {
   const [user, setUser] = useState(null);
