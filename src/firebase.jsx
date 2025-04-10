@@ -3,9 +3,9 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "TA_CLÉ_API",
+  apiKey: "AIzaSyCQtcWHkyh1I0keQFPEhfP6QkFRcNyB1QQ",
   authDomain: "ton-projet.firebaseapp.com",
-  projectId: "ton-projet",
+  projectId: "veggie-finder-d55fd",
   storageBucket: "ton-projet.appspot.com",
   messagingSenderId: "1234567890",
   appId: "1:1234567890:web:abcdefghijk"
